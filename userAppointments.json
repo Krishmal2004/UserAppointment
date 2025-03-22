@@ -1,0 +1,20 @@
+{
+  "appointments": [
+    {
+      "id": "APP202503221",
+      "propertyId": "PROP001",
+      "propertyName": "Luxury Villa - Colombo 7",
+      "agentId": "AGENT001",
+      "agentName": "John Smith",
+      "clientId": "Krishmal2004",
+      "clientName": "Krishmal",
+      "date": "2025-03-23",
+      "time": "10:00",
+      "status": "PENDING",
+      "notes": "Initial viewing of the property",
+      "createdAt": "2025-03-22 20:21:19",
+      "updatedAt": "2025-03-22 20:21:19",
+      "lastModifiedBy": "Krishmal2004"
+    }
+  ]
+}
